@@ -2,7 +2,7 @@
 
 
 
-- 👋 Oi, eu sou Marlon Ebet Campanha
+- 👋 Oi, eu sou Marlon Ebert Campanha
 - 👀 Eu estou  interessado em trabalhar com programação
 - 🌱 Atualmente estou aprendendo a criar site e estou fazendo alguns cursos
 - 📧 Caso queira falar comigo esse é meu email de contato:marlon.campanha@escola.pr.gov.br
